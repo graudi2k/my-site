@@ -1,0 +1,17 @@
+/**** tag selectors ****/
+
+h1 { color: blueviolet; font-size: xx-large; font-style:italic}
+body{
+    background-color:darksalmon;
+}
+img:hover {background-color: silver;}
+
+/**** class selector ****/
+
+.broccoli{ background-color: chartreuse;}
+.bacon{background-color: black;}
+.circular{border-radius: 70%;}
+
+/**** ID selector ****/
+
+#heading { color: blueviolet;}
